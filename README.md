@@ -1,7 +1,16 @@
 <h1 align="center">Hangman Game</h1>
 
 <p align="center">
-  <img src="hangman_image.png" alt="Hangman Game" />
+  <pre>
+   _    _                                         
+  | |  | |                                        
+  | |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __  
+  |  __  |/ _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+  | |  | | (_| | | | | (_| | | | | | | (_| | | | |
+  |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                     __/ |                      
+                    |___/                       
+  </pre>
 </p>
 
 <p align="center">
