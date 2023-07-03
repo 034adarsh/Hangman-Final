@@ -1,16 +1,15 @@
 <h1 align="center">Hangman Game</h1>
 
-                                          
-                                            _    _                                         
-                                           | |  | |                                        
-                                           | |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __  
-                                           |  __  |/ _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
-                                           | |  | | (_| | | | | (_| | | | | | | (_| | | | |
-                                           |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                                                              __/ |                      
-                                                             |___/                       
-                                        
-                                
+                                                               ____
+                                                              |    |
+                                                              |    O
+                                                              |   /|\
+                                                              |   / \
+                                                             _|_
+                                                            |   |______
+                                                            |          |
+                                                            |__________|
+                           
 
 <p align="center">
   Welcome to the Hangman Game! This repository contains the code for a classic word-guessing game. Challenge yourself to guess the hidden word before you run out of lives. Have fun playing!
