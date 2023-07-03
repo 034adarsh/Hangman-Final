@@ -13,7 +13,7 @@ The Hangman Game is a simple word-guessing game where players try to guess a wor
 
 ## How to Play
 To play the Hangman Game, follow these steps:
-1. Clone this repository: `git clone https://github.com/your-username/hangman-game.git`
+1. Clone this repository: `git clone https://https://github.com/034adarsh/Hangman-Final`
 2. Install the necessary dependencies.
 3. Run the `hangman.py` script.
 4. Guess a letter each round by entering it in the command line.
